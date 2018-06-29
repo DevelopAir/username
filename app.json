@@ -1,0 +1,6 @@
+{
+	"name": "GLDuncanson",
+	"description": "Example REST API with Node.js, Restify & MongoDB 🔋",
+	"keywords": ["GLDuncanson", "MongoDB", "Restify"],
+	"addons": ["mongolab"]
+}
